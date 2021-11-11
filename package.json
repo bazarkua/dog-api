@@ -1,0 +1,23 @@
+{
+  "name": "dog-api",
+  "version": "1.0.0",
+  "description": "dog api back end",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazarkua/dog-api.git"
+  },
+  "author": "Adilbek Bazarkulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazarkua/dog-api/issues"
+  },
+  "homepage": "https://github.com/bazarkua/dog-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
